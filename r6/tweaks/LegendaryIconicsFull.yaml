@@ -1,0 +1,256 @@
+# LegendaryIconics, Cyberpunk 2077 mod that turns every iconic weapon into a legendary
+# Copyright (C) 2022 BurgersMcFly
+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#Ranged Weapons
+
+Items.Preset_Carnage_Edgerunners:
+ quality: Quality.Legendary
+
+Items.Preset_Kenshin_Frank:
+ quality: Quality.Legendary 
+
+Items.Preset_Nue_Maiko:
+ quality: Quality.Legendary
+
+Items.Preset_Nue_Maiko_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Lexington_Wilson:
+ quality: Quality.Legendary
+
+Items.mq011_wilson_gun:
+ quality: Quality.Legendary
+
+Items.Preset_Q001_Lexington:
+ quality: Quality.Legendary
+
+Items.Preset_Lexington_Wilson_Rare:
+ quality: Quality.Legendary
+
+Items.Preset_Lexington_Wilson_Epic:
+ quality: Quality.Legendary
+ 
+Items.Preset_Liberty_Dex:
+ quality: Quality.Legendary
+
+Items.Preset_Liberty_Dex_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Omaha_Suzie:
+ quality: Quality.Legendary
+
+Items.Preset_Omaha_Suzie_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Yukimura_Skippy:
+ quality: Quality.Legendary
+
+Items.Preset_Yukimura_Kiji:
+ quality: Quality.Legendary
+
+Items.Preset_Burya_Comrade:
+ quality: Quality.Legendary
+
+Items.Preset_Overture_Cassidy:
+ quality: Quality.Legendary
+
+Items.Preset_Overture_River:
+ quality: Quality.Legendary
+
+Items.Preset_Overture_Kerry:
+ quality: Quality.Legendary
+
+Items.Preset_Overture_Kerry_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Nova_Doom_Doom:
+ quality: Quality.Legendary
+
+Items.Preset_Nova_Doom_Doom_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Achilles_Nash:
+ quality: Quality.Legendary
+
+Items.Preset_Achilles_Nash_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Ajax_Moron:
+ quality: Quality.Legendary
+
+Items.Preset_Copperhead_Genesis:
+ quality: Quality.Legendary
+
+Items.Preset_Copperhead_Genesis_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Grad_Panam:
+ quality: Quality.Legendary
+
+Items.Preset_Grad_Panam_Epic:
+ quality: Quality.Legendary
+
+Items.mq025_buck_gun:
+ quality: Quality.Legendary
+
+Items.Preset_Grad_Buck:
+ quality: Quality.Legendary
+
+Items.Preset_Kolac_Tiny_Mike:
+ quality: Quality.Legendary
+
+Items.Preset_Nekomata_Breakthrough:
+ quality: Quality.Legendary
+
+Items.mq008_golden_knuckledusters:
+ quality: Quality.Legendary
+
+Items.Preset_Sidewinder_Divided:
+ quality: Quality.Legendary
+
+Items.Preset_Sidewinder_Divided_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Carnage_Mox:
+ quality: Quality.Legendary
+
+Items.Preset_Carnage_Mox_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Igla_Sovereign:
+ quality: Quality.Legendary
+
+Items.Preset_Tactician_Dino:
+ quality: Quality.Legendary
+
+Items.Preset_Tactician_Headsman:
+ quality: Quality.Legendary
+
+Items.Preset_Pulsar_Buzzsaw:
+ quality: Quality.Legendary
+
+Items.Preset_Pulsar_Buzzsaw_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Saratoga_Raffen:
+ quality: Quality.Legendary
+
+Items.Preset_Saratoga_Raffen_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Saratoga_Maelstrom:
+ quality: Quality.Legendary
+
+Items.Preset_Saratoga_Maelstrom_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Kenshin_Royce:
+ quality: Quality.Legendary 
+
+Items.Preset_Kenshin_Royce_Epic:
+ quality: Quality.Legendary 
+
+Items.Preset_Liberty_Yorinobu:
+ quality: Quality.Legendary
+
+Items.Preset_Liberty_Yorinobu_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Nue_Jackie:
+ quality: Quality.Legendary
+
+Items.Preset_Nue_Jackie_Epic:
+ quality: Quality.Legendary
+
+#Melee Weapons
+
+Items.Preset_Baseball_Bat_Denny:
+ quality: Quality.Legendary
+
+Items.Preset_Baseball_Bat_Denny_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Baton_Tinker_Bell:
+ quality: Quality.Legendary
+
+Items.Preset_Baton_Tinker_Bell_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Cane_Fingers:
+ quality: Quality.Legendary
+
+Items.Preset_Cane_Fingers_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Dildo_Stout:
+ quality: Quality.Legendary
+
+Items.Preset_Dildo_Stout_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Cocktail:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Cocktail_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Hiromi:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Hiromi_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Takemura:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Saburo:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Saburo_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Surgeon:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Surgeon_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Katana_Wakako:
+ quality: Quality.Legendary
+
+Items.Preset_Knife_Stinger:
+ quality: Quality.Legendary
+
+Items.Preset_Knife_Stinger_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Neurotoxin_Knife_Iconic:
+ quality: Quality.Legendary
+
+Items.Preset_Neurotoxin_Knife_Iconic_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Punk_Knife_Iconic:
+ quality: Quality.Legendary
+
+Items.Preset_Punk_Knife_Iconic_Epic:
+ quality: Quality.Legendary
+
+Items.Preset_Butchers_Knife_Iconic:
+ quality: Quality.Legendary
+
+Items.Preset_Butchers_Knife_Iconic_Epic:
+ quality: Quality.Legendary 
